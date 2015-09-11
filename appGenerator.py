@@ -1,10 +1,10 @@
 import tweepy, time, sys, random
 from random import randint
 
-CONSUMER_KEY = 'Zg0rZnaumSe3DDAe8Wwo0nbbs'
-CONSUMER_SECRET = '2sbgkcmQAe9mWJP6Cu39k2fr9tR3IynuPICz3oSe5cWzTfSicJ'
-ACCESS_KEY = '20063578-uTiDsDQfQpoFHFSoJcYeFGwc1t7gNlBuEIi6DHUIt'
-ACCESS_SECRET = '0Qv87JdJLCRdDRkQwzaIo1v7OzJRx8lKiD39B4xRJeZ93'
+CONSUMER_KEY = 'insertkey'
+CONSUMER_SECRET = 'insertsecret'
+ACCESS_KEY = 'insertkey'
+ACCESS_SECRET = 'insertsecret'
 
 auth = tweepy.OAuthHandler(CONSUMER_KEY, CONSUMER_SECRET)
 auth.set_access_token(ACCESS_KEY, ACCESS_SECRET)
