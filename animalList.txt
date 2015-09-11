@@ -1,0 +1,16 @@
+horses
+pigs
+chickens
+ducks
+geese
+pigeons
+cattle
+sheep
+goats
+dogs
+cats
+camels
+llamas
+reindeer
+yaks
+water buffalo
